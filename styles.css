@@ -3,3 +3,6 @@
     justify-content: space-around; /* Distributes space evenly around items */
     /* Other properties like align-items, flex-direction can be used for further control */
 }
+.top-bar {
+    padding: 10px #0000;
+}
